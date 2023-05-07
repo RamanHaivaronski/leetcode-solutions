@@ -1,6 +1,7 @@
 Solved tasks:
 May
 6.05 - 1
+7.05 - 9
 
 Solved not optimal:
-1
+1, 9
