@@ -5,12 +5,13 @@ May
 8.05 - 13
 10.05 - 14
 11.05 - 14repeat, 28, 586
+12.05 - 20
 
 Solved not optimal:
 1, 9, 13
 
 Not solved:
-511, 14, 585
+511, 14, 585, 20
 
 wn - with notebook
 wo - without notebook
