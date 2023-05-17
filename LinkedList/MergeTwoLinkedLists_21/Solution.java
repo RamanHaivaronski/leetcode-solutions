@@ -1,4 +1,4 @@
-package MergeTwoLinkedLists_21;
+package LinkedList.MergeTwoLinkedLists_21;
 
 public class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

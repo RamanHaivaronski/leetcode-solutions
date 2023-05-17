@@ -1,4 +1,4 @@
-package MergeTwoLinkedLists_21;
+package LinkedList.MergeTwoLinkedLists_21;
 
 public class ListNode {
     int val;

@@ -8,12 +8,13 @@ May
 12.05 - 20
 15.05 - 21
 16.05 - 26, 607
+17.07 - 27, 203
 
 Solved not optimal:
 1, 9, 13
 
 Not solved:
-511, 14, 585, 20, 21
+511, 14, 585, 20, 21, 27, 203
 
 wn - with notebook
 wo - without notebook
