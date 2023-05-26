@@ -27,7 +27,6 @@ class Solution {
             //pop root node
             current = stack.pop();
 
-
             //traverse to right subtree
             current = current.right;
 

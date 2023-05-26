@@ -14,17 +14,18 @@ May
 22.05 - 58
 24.05 - 94, 590
 25.05 - 144, 145
+26.05 - 589
 
 Solved not optimal:
 1, 9, 13, 58
 
 Not solved:
-511, 14, 585, 20, 21, 27, 203, 70, 136, 94, 590
+511, 14, 585, 20, 21, 27, 203, 70, 136, 94, 590, 589
 
 Binary Trees
 94, 144, 145
 N-ary Trees
-590
+590, 589
 
 wn - with notebook
 wo - without notebook
