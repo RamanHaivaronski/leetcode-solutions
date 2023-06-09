@@ -12,8 +12,10 @@ public class Solution {
 
         while(result != null && result.next != null) {
             if(result.next.val == val) {
+                // skip certain value
                 result.next = result.next.next;
             } else {
+                // regular traversal
                 result = result.next;
             }
 
