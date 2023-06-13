@@ -1,4 +1,4 @@
-package PalindromeNumber9;
+package Palindromes.PalindromeNumber_9;
 public class Solution {
     //My solution brute force
     // Convert to String

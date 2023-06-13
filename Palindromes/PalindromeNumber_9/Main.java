@@ -1,4 +1,4 @@
-package PalindromeNumber9;
+package Palindromes.PalindromeNumber_9;
 
 public class Main {
     public static void main(String[] args) {
