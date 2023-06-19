@@ -1,5 +1,7 @@
 package Trees.BinaryTrees.MinimumDepth_111;
 
+import Trees.BinaryTrees.TreeNode;
+
 public class Main {
     public static void main(String[] args) {
         Solution s = new Solution();

@@ -1,5 +1,7 @@
 package Trees.BinaryTrees.MinimumDepth_111;
 
+import Trees.BinaryTrees.TreeNode;
+
 // Complexity O(n)
 class Solution {
     public int minDepth(TreeNode root) {

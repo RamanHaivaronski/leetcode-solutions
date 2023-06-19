@@ -1,6 +1,6 @@
 package Trees.BinaryTrees.MaximumDepth_104;
 
-import java.util.List;
+import Trees.BinaryTrees.TreeNode;
 
 public class Main {
     public static void main(String[] args) {

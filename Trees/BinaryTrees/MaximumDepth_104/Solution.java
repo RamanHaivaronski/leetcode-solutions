@@ -1,5 +1,7 @@
 package Trees.BinaryTrees.MaximumDepth_104;
 
+import Trees.BinaryTrees.TreeNode;
+
 //Bottom-up solution
 // Complexity O(n)
 class Solution {

@@ -1,5 +1,6 @@
 package Trees.BinaryTrees.InOrderTraversal_94;
 
+import Trees.BinaryTrees.TreeNode;
 import java.util.List;
 
 public class Main {
