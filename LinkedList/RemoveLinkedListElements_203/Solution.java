@@ -1,5 +1,7 @@
 package LinkedList.RemoveLinkedListElements_203;
 
+import LinkedList.ListNode;
+
 public class Solution {
     public ListNode removeElements(ListNode head, int val) {
 

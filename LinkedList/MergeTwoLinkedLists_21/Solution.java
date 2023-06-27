@@ -1,5 +1,7 @@
 package LinkedList.MergeTwoLinkedLists_21;
 
+import LinkedList.ListNode;
+
 public class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode preHead = new ListNode(0);

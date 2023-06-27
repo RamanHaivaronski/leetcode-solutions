@@ -1,5 +1,7 @@
 package LinkedList.RemoveDuplicatesFromList_83;
 
+import LinkedList.ListNode;
+
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
 
