@@ -37,6 +37,7 @@ June
 July
 03.07 - 2
 04.07 - 217
+06.06 - 7
 
 Solved not optimal:
 1, 9, 13, 58
