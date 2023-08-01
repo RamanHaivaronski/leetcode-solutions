@@ -56,6 +56,9 @@ July
 28.07 - 234
 31.07 - 543
 
+August
+01.07 - 205
+
 Solved not optimal:
 1, 9, 13, 58
 
