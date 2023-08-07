@@ -22,6 +22,8 @@ public class Solution {
             mapT.put(t.charAt(i), i);
         }
 
+        // Arrays.binarySearch(new int[] {1, 2, 3}, 2);
+
         return true;
     }
 }
