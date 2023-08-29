@@ -70,7 +70,8 @@ August
 14.08 - 36
 25.08 - 39 backtracking
 28.08 - 22 backtracking
-29.08 - Nqueens
+29.08 - 414, 412
+
 
 Solved not optimal:
 1, 9, 13, 58
