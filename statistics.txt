@@ -72,6 +72,7 @@ August
 28.08 - 22 backtracking
 29.08 - 414, 412
 30.08 - 908
+31.08 - 15
 
 
 Solved not optimal:
