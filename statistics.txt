@@ -74,6 +74,9 @@ August
 30.08 - 908
 31.08 - 15
 
+September
+01.09 - 409
+
 
 Solved not optimal:
 1, 9, 13, 58
