@@ -6,7 +6,7 @@ import java.util.*;
 
 class Solution {
     //Complexity O(n)
-    public int sumOfLeftLeaves1(TreeNode root) {
+    public int sumOfLeftLeaves(TreeNode root) {
         int result = 0;
         if (root == null || (root.left == null && root.right == null)) {
             return result;
