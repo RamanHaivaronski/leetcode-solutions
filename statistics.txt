@@ -80,6 +80,7 @@ September
 05.09 - 441, 1237
 08.09 - 835 (image overlap)
 11.09 - 12
+12.09 - 79, 392
 
 
 Solved not optimal:
