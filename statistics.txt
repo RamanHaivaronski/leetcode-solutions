@@ -83,6 +83,7 @@ September
 12.09 - 79, 392
 13.09 - 292
 15.09 - 374
+18.09 - 72 DP
 
 
 Solved not optimal:
