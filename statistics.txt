@@ -89,6 +89,10 @@ September
 21.09 - 33
 25.09 - 48
 26.09 - 389, 1047
+27.09 - 415
+
+October
+03.10 - 500
 
 
 Solved not optimal:
