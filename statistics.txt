@@ -95,6 +95,7 @@ September
 October
 03.10 - 500
 20.10 - 367
+22.10 - 350
 
 
 Solved not optimal:
