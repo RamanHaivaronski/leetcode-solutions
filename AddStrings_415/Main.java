@@ -1,9 +1,9 @@
-package IntersectionofTwoArrays_349;
+package AddStrings_415;
 
 public class Main {
     public static void main(String[] args) {
         Solution s = new Solution();
-        int[] result = s.intersection(new int[]{4,9,5}, new int[]{9,4,9,8,4});
+        String result = s.addStrings("11", "123");
 
         System.out.println(result);
     }

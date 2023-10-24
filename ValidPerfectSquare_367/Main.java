@@ -1,9 +1,9 @@
-package IntersectionofTwoArrays_349;
+package ValidPerfectSquare_367;
 
 public class Main {
     public static void main(String[] args) {
         Solution s = new Solution();
-        int[] result = s.intersection(new int[]{4,9,5}, new int[]{9,4,9,8,4});
+        boolean result = s.isPerfectSquare(14);
 
         System.out.println(result);
     }
