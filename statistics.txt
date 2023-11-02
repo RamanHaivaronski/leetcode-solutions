@@ -110,7 +110,8 @@ sum 139
 
 November
 02.11 - 78!, 184
+sum 2
 
-Total: 139
-Algo 113
-SQL 26
+Total: 141
+Algo 114
+SQL 27
