@@ -109,7 +109,8 @@ October
 sum 139
 
 November
-02.11 - 78!, 184
+02.11 - 78! power set, 184
+03.11 - 682, 46! permutations
 sum 2
 
 Total: 141
