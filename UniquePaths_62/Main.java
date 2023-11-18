@@ -1,9 +1,9 @@
-package WordPattern_290;
+package UniquePaths_62;
 
 public class Main {
     public static void main(String[] args) {
         Solution s = new Solution();
-        boolean result = s.wordPattern("abba", "dog dog dog dog");
+        int result = s.uniquePaths(3, 7);
 
         System.out.println(result);
     }
