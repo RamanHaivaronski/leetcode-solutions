@@ -1,9 +1,9 @@
-package MostCommonWord_819;
+package ShortestDistancetoaCharacter_821;
 
 public class Main {
     public static void main(String[] args) {
         Solution s = new Solution();
-        String result = s.mostCommonWord("a, a, a, a, b,b,b,c, c", new String[] {"a"});
+        int [] result = s.shortestToChar("loveleetcode", 'e');
 
         System.out.println(result);
     }
